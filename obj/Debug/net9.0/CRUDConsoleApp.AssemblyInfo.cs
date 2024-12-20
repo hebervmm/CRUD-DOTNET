@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CRUDConsoleApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d138fb7a853bf07a90897e25f8f26d1aed55d2c1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d01f4b25ae6956803fe7082e849bc32bd0e89ee")]
 [assembly: System.Reflection.AssemblyProductAttribute("CRUDConsoleApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CRUDConsoleApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
