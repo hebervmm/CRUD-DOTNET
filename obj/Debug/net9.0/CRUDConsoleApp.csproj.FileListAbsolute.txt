@@ -1,0 +1,14 @@
+C:\Users\heber\OneDrive\Documentos\CRUD\CRUDConsoleApp\bin\Debug\net9.0\CRUDConsoleApp.exe
+C:\Users\heber\OneDrive\Documentos\CRUD\CRUDConsoleApp\bin\Debug\net9.0\CRUDConsoleApp.deps.json
+C:\Users\heber\OneDrive\Documentos\CRUD\CRUDConsoleApp\bin\Debug\net9.0\CRUDConsoleApp.runtimeconfig.json
+C:\Users\heber\OneDrive\Documentos\CRUD\CRUDConsoleApp\bin\Debug\net9.0\CRUDConsoleApp.dll
+C:\Users\heber\OneDrive\Documentos\CRUD\CRUDConsoleApp\bin\Debug\net9.0\CRUDConsoleApp.pdb
+C:\Users\heber\OneDrive\Documentos\CRUD\CRUDConsoleApp\obj\Debug\net9.0\CRUDConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heber\OneDrive\Documentos\CRUD\CRUDConsoleApp\obj\Debug\net9.0\CRUDConsoleApp.AssemblyInfoInputs.cache
+C:\Users\heber\OneDrive\Documentos\CRUD\CRUDConsoleApp\obj\Debug\net9.0\CRUDConsoleApp.AssemblyInfo.cs
+C:\Users\heber\OneDrive\Documentos\CRUD\CRUDConsoleApp\obj\Debug\net9.0\CRUDConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\heber\OneDrive\Documentos\CRUD\CRUDConsoleApp\obj\Debug\net9.0\CRUDConsoleApp.dll
+C:\Users\heber\OneDrive\Documentos\CRUD\CRUDConsoleApp\obj\Debug\net9.0\refint\CRUDConsoleApp.dll
+C:\Users\heber\OneDrive\Documentos\CRUD\CRUDConsoleApp\obj\Debug\net9.0\CRUDConsoleApp.pdb
+C:\Users\heber\OneDrive\Documentos\CRUD\CRUDConsoleApp\obj\Debug\net9.0\CRUDConsoleApp.genruntimeconfig.cache
+C:\Users\heber\OneDrive\Documentos\CRUD\CRUDConsoleApp\obj\Debug\net9.0\ref\CRUDConsoleApp.dll
